@@ -1,6 +1,6 @@
 # Serviço de Leitura de CSV
 
-Este projeto implementa um serviço para ler arquivos CSV linha por linha em Go, com foco no processamento de arquivos que serão usados na atualização do Elasticsearch. Ele utiliza o framework Gin para uma API REST eficiente e segue uma arquitetura simples e direta para manter uma separação clara de responsabilidades.
+Este projeto implementa um serviço para ler arquivos CSV linha por linha em Go, com foco no processamento de arquivos. Ele utiliza o framework Gin para uma API REST eficiente e segue uma arquitetura simples e direta para manter uma separação clara de responsabilidades.
 
 ## Funcionalidades
 
